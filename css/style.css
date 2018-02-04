@@ -200,17 +200,17 @@ header nav ul li a:hover, header nav ul li a.activ{
 .form .left h2,.form .right h2{
     font-size: 24px;
     line-height: 16px;
-    color: %000;
+    color: #000;
 }
 .form .left h5{
     font-size: 16px;
-    color: %1d1e1b;
+    color: #1d1e1b;
     margin-top: 16px;
     margin-bottom: 22px;
 }
 .form .left p{
     font-size: 16px;
-    color: %7b7d78;
+    color: #7b7d78;
 }
 .form .left a{
     display: inline-block;
